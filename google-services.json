@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "386422540797",
+    "firebase_url": "https://effective-reach-223810.firebaseio.com",
+    "project_id": "effective-reach-223810",
+    "storage_bucket": "effective-reach-223810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386422540797:android:757f7cd23c684e2f",
+        "android_client_info": {
+          "package_name": "nofshonit.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386422540797-ff1006jjq9pgl1i9ge9ohploo2rg4ocv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRW8VuN9sXi0ZHYI_IXXz4VvjDB4jOuU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
