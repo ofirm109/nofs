@@ -1,7 +1,10 @@
 {
 	"allApp": {
 		"AllIdkunim": {
-			"Idkunim": "רביעי 4.3 סדנת מיינדפולנס"
+			"Idkunim": [
+				"רביעי 4.3 סדנת מיינדפולנס",
+				""
+			]
 		},
 		"table": {
 			"children": {
